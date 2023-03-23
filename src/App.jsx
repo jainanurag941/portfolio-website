@@ -6,7 +6,7 @@ import {
   Feedbacks,
   Hero,
   Navbar,
-  Tech,
+  MediaQueryAdjustScreen,
   Works,
   StarsCanvas,
 } from "./components";
@@ -21,7 +21,7 @@ const App = () => {
         </div>
         <About />
         {/* <Experience /> */}
-        <Tech />
+        <MediaQueryAdjustScreen />
         <Works />
         {/* <Feedbacks /> */}
         <div className="relative z-0 ">

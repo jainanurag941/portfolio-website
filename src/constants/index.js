@@ -112,6 +112,29 @@ const technologies = [
   },
 ];
 
+const skills = [
+  {
+    name: "C++",
+    icon: cppimg,
+  },
+  {
+    name: "MySql",
+    icon: mysqlimg,
+  },
+  {
+    name: "React JS",
+    icon: reactjs,
+  },
+  {
+    name: "Node JS",
+    icon: nodejs,
+  },
+  {
+    name: "MongoDB",
+    icon: mongodb,
+  },
+];
+
 const experiences = [
   {
     title: "React.js Developer",
@@ -272,4 +295,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, skills, experiences, testimonials, projects };
