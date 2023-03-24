@@ -82,10 +82,10 @@ const technologies = [
     name: "Redux Toolkit",
     icon: redux,
   },
-  {
-    name: "Handlebars",
-    icon: handlebars,
-  },
+  // {
+  //   name: "Handlebars",
+  //   icon: handlebars,
+  // },
   {
     name: "Express",
     icon: expressjs,
@@ -102,10 +102,10 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
+  // {
+  //   name: "Tailwind CSS",
+  //   icon: tailwind,
+  // },
   {
     name: "git",
     icon: git,
