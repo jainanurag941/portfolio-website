@@ -118,6 +118,10 @@ const skills = [
     icon: cppimg,
   },
   {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
     name: "MySql",
     icon: mysqlimg,
   },
@@ -133,6 +137,10 @@ const skills = [
     name: "MongoDB",
     icon: mongodb,
   },
+  // {
+  //   name: "git",
+  //   icon: git,
+  // },
 ];
 
 const experiences = [
