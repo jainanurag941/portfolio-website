@@ -3,7 +3,6 @@ import {
   About,
   Contact,
   Experience,
-  Feedbacks,
   Hero,
   Navbar,
   MediaQueryAdjustScreen,
@@ -23,7 +22,6 @@ const App = () => {
         {/* <Experience /> */}
         <MediaQueryAdjustScreen />
         <Works />
-        {/* <Feedbacks /> */}
         <div className="relative z-0 ">
           <Contact />
           <StarsCanvas />
